@@ -1,0 +1,31 @@
+%% Begin Waypoint %%
+- **[[Archer]]**
+- **[[Cutthroat]]**
+	- [[Quicksilver]]
+- **[[Mage]]**
+	- [[Blasters]]
+	- [[Cleric]]
+	- [[Esper]]
+	- [[Fire Mage]]
+	- [[Necromancer]]
+	- [[Psi]]
+	- [[Spatial Mage]]
+	- [[Symbolist]]
+- **[[Summoner]]**
+- **Variants**
+	- [[Elementalist]]
+	- [[Glinter]]
+	- [[Spell Sword]]
+- **[[Warrior]]**
+	- [[Berserker]]
+	- [[Blade Master]]
+	- [[Brawler]]
+	- [[Demolisher]]
+	- [[Destroyer]]
+	- [[Dragoon]]
+	- [[Empalador]]
+	- [[Knight]]
+	- [[Lagarmada]]
+	- [[Lancer]]
+
+%% End Waypoint %%

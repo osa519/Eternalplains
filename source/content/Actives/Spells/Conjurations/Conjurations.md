@@ -1,0 +1,20 @@
+%% Begin Waypoint %%
+- [[Conjure Agua Sprite]]
+- [[Conjure Ankle Bitters]]
+- [[Conjure Bome]]
+- [[Conjure Chains]]
+- [[Conjure Fire Sprite]]
+- [[Conjure Fungi]]
+- [[Conjure Healing Sprite]]
+- [[Conjure Ice Sprite]]
+- [[Conjure Magic Arrows]]
+- [[Conjure Magic Bow]]
+- [[Conjure Man Eaters]]
+- [[Conjure Scryer's Ear]]
+- [[Conjure Scryer's Eye]]
+- [[Conjure Scryer's Mouth]]
+- [[Conjure Warded Sprite]]
+- [[Conjure Wood]]
+- [[Conjure Wooden Golem]]
+
+%% End Waypoint %%

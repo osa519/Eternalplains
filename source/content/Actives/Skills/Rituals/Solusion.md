@@ -1,0 +1,2 @@
+# Description
+Solusion is a [[Rituals|Ritual]] [[Skills|Skill]] to bring the fallen dead back to the life utilizing the victims [[Skill Soul Harvest|Harvested]] soul. Ten Percent of of the user's soul will be ripped and placed inside the victim allowing the user to have full control over his new spawn within a vast radius.

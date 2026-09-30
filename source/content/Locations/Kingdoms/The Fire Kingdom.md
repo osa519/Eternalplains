@@ -1,0 +1,1 @@
+Flag: An emblem of flaming crossed swords on a black flag ending in dark red threads at its edges.

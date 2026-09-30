@@ -1,0 +1,2 @@
+#Force #Subset_Crash 
+Flying blade technique that doesn't slice the further the opponet. The closer, the sharper the attack. The further the opponent, the attack grows into a wide reaching daunting hit depending on the user's stats.

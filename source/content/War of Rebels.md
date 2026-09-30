@@ -1,0 +1,1 @@
+The War of Rebels was started by three providence that sought to expose the lies and mistreatment caused by King Tala. They also sought more independence and statehood because the Fire Kingdom did not provide them with protection but demanded heavy taxes.

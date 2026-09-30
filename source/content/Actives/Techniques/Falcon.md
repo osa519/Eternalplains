@@ -1,0 +1,2 @@
+#Illusion
+Piercing sword technique. 

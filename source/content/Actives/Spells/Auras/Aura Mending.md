@@ -1,0 +1,1 @@
+ A healing Aura that stops bleeding, repairs organic and bone tissue. It has a very short range.

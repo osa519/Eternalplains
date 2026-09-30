@@ -1,0 +1,1 @@
+A healing aura that stops bleeding and cures superficial wounds.

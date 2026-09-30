@@ -1,0 +1,1 @@
+Leafless branches of these trees angled downward, impeding paths.

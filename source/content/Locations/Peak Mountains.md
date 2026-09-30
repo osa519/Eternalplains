@@ -1,0 +1,1 @@
+Northern area of the [[Giant's Forest]].
